@@ -1,0 +1,8 @@
+project:
+    name: airflow
+
+postgres:
+  port: 5435
+
+fastapi:
+  port: 8081
